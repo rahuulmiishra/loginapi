@@ -1,0 +1,18 @@
+.form {
+    padding: 16px;
+
+    input {
+        height: 32px;
+        width: 200px;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+        margin-bottom: 10px;
+        border-radius: 4px;
+    }
+
+    input[type="submit"] {
+        cursor: pointer;
+    }
+}
